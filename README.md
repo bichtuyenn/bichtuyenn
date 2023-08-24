@@ -1,7 +1,7 @@
 ### こにちは、トゥエンです　👋
 
 I'm a passionate developer from Viet Nam. 
-Here are some ideas to get you started:
+Here are some information about me :
 
 - 🔭 I’m 4th year student at University of Information teachnology HCM (UIT)
 - 🌱 I’m currently learning web major
