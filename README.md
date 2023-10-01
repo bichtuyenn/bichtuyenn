@@ -1,4 +1,4 @@
-<h1 >こにちは、トゥエンです　👋</h1>
+<h1 >こにちは、トゥエンです　👋👋</h1>
 
 I'm a passionate developer from Viet Nam. 
 Here are some information about me 🐼:
