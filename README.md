@@ -20,5 +20,7 @@ Here are some information about me 🐼:
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/php.png" alt="php"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> 
+    <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/62fa3b94-3660-47a5-b430-13c5ca048beb" />
+
 </p>
 
