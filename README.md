@@ -20,7 +20,8 @@ Here are some information about me 🐼:
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/php.png" alt="php"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> 
-    <img width="512" height="48" alt="image" src="https://github.com/user-attachments/assets/9753b13c-c2bd-44e3-bc3a-c9b7e86324b8" />
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+
 " />
 
 </p>
