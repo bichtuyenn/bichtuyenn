@@ -3,7 +3,7 @@
 I'm a passionate developer from Viet Nam. 
 Here are some information about me 🐼:
 <ul >  
-    <li>🔭 I’m final-year student at University of Information teachnology HCM (UIT)</li>
+    <li>🔭 I graduated from school University of Information teachnology HCM (UIT)</li>
     <li>🌱 I’m currently learning web and app major</li>
     <li>👯 I’m looking forward to collaborate with your company in the future.</li>
     <li>📫 How to contact with me :  Email : thuhaiduong002@gmail.com</li>
